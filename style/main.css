@@ -46,7 +46,7 @@ header nav a:hover{
 /* filme principal*/
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('https://www.themoviedb.org/t/p/original/uBbxU8JEgLBkmALGEKJnoeAzLRp.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/capa.jpg');
 
     height: 550px;
     background-size: cover;
